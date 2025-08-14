@@ -18,5 +18,3 @@ JavaScript– Game logic & interactivity
 --Screenshot--
 ![Simon Says Screenshot](image.png)
 
---Live Demo--
-https://mukherjee16swastika.github.io/Simon-says/
