@@ -1,31 +1,31 @@
-body{
+body {
     text-align: center;
 }
-.btn{
+.btn {
     height: 200px;
     width: 200px;
     border-radius: 20%;
     border: 10px solid;
 }
-.btn-container{
+.btn-container {
     display: flex;
     justify-content: center;
 }
-.grey{
+.grey {
     background-color: lightslategray;
 }
-.pastel{
+.pastel {
     background-color: paleturquoise;
 }
-.red{
+.red {
     background-color: plum;
 }
-.blue{
+.blue {
     background-color: lightskyblue;
 }
-.flash{
+.flash {
     background-color: white;
 }
-.user{
+.user {
     background-color: green;
 }
